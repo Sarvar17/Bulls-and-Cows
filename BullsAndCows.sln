@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BullsAndCows", "BullsAndCows\BullsAndCows.csproj", "{2DBAF932-39AA-4889-9993-C6EC7DC79E05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nDigitGame", "nDigitGame\nDigitGame.csproj", "{35C9B5C6-BA42-4181-9B9B-A4F3D37B9BB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DBAF932-39AA-4889-9993-C6EC7DC79E05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DBAF932-39AA-4889-9993-C6EC7DC79E05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DBAF932-39AA-4889-9993-C6EC7DC79E05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DBAF932-39AA-4889-9993-C6EC7DC79E05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35C9B5C6-BA42-4181-9B9B-A4F3D37B9BB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35C9B5C6-BA42-4181-9B9B-A4F3D37B9BB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35C9B5C6-BA42-4181-9B9B-A4F3D37B9BB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35C9B5C6-BA42-4181-9B9B-A4F3D37B9BB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C03206E1-BD7D-44CC-9577-E53A675D263F}
+	EndGlobalSection
+EndGlobal
